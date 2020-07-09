@@ -1,5 +1,6 @@
 # ECE350 Toolchain for Windows
 Included are the premade version of GTKWave and Icarus Verilog.
+
 Run the included setup file to quickly setup up and create desktop shortcuts to both programs.
 ## Quick Start
 To run the file, double click on the setup file and follow the prompts.
